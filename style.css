@@ -1,7 +1,7 @@
 body {
     width: 100%;
     color: #de6510;
-    background: linear-gradient(to top, #aaa, #fff)
+    background: linear-gradient(to top, #aaa, #dcdcdc)
 }
 
 h1 {
@@ -41,8 +41,16 @@ form, input, textarea {
     margin-left: 10%;
 }
 
-#header {
+.thin-head {
     background-color: #262228;
+    margin-bottom: -3%;
+}
+
+#header {
+    background-image: url(gradina.jpg);
+    background-size: 100%;
+    background-position-y: 50%;
+    opacity: 1.5;
     position: absolute;
     top: 0;
     left: 0;
