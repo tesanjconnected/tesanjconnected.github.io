@@ -1,0 +1,150 @@
+body {
+    width: 100%;
+    color: #de6510;
+    background: linear-gradient(to top, #aaa, #fff)
+}
+
+h1 {
+    text-align: center;
+    color: #262228;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+label {
+    margin-left: 10%;
+}
+
+input, textarea {
+    background-color: #262228;
+    color: #fff;
+}
+
+::placeholder {
+    color: #fff;
+    opacity: 1;
+}
+
+label {
+    color: #262228;
+}
+
+form, input, textarea {
+    font-size:20px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+#header {
+    background-color: #262228;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#header a {
+    text-decoration: none;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 24px;
+}
+
+#header a:hover {
+    color: #aaa;
+}
+
+#kosmo {
+    background-color: #fff;
+    border-radius: 2vw;
+    box-shadow: 5px 5px 6px 6px rgba(222, 101, 16, 0.6);
+    color: #de6510;
+    width:80%;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top:40%;
+    margin-bottom:10%;
+}
+
+#kosmo p {
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 5%;
+    color: #262228;
+}
+
+#zasto {
+    background-color: #fff;
+    border-radius: 2vw;
+    box-shadow: 5px 5px 6px 6px rgba(222, 101, 16, 0.6);
+    color: #262228;
+    width:80%;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top:30%;
+    margin-bottom:10%;
+}
+
+
+#zasto p {
+    margin-left: 4%;
+    margin-right: 4%;    margin-bottom: 5%;
+    color: #262228;
+}
+
+#sta {
+    background-color: #fff;
+    border-radius: 2vw;
+    box-shadow: 5px 5px 6px 6px rgba(222, 101, 16, 0.6);    width:80%;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top:30%;
+    margin-bottom:10%;
+}
+
+#sta p {
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 5%;
+    color: #262228;
+}
+
+#najbolji {
+    background-color: #fff;
+    border-radius: 2vw;
+    box-shadow: 5px 5px 6px 6px rgba(222, 101, 16, 0.6);    width:80%;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top:30%;
+    margin-bottom: 10%;
+}
+
+#najbolji p {
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 5%;
+    color: #262228;
+}
+
+#kontakt {
+    background-color: #fff;
+    border-radius: 2vw;
+    box-shadow: 5px 5px 6px 6px rgba(222, 101, 16, 0.6);    width:80%;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top:30%;
+    margin-bottom: 10%;
+}
+
+#kontakt p {
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 5%;
+    color: #262228;
+}
