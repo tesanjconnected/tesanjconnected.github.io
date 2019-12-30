@@ -1,0 +1,11 @@
+            <h1>Sta mi to tacno radimo?</h1>
+            <p>Mi, kroz nasu platformu Tesanj Connected, spajamo privrednike, radnike i srednjoskolce zeljne prakse
+               kroz jednostavnu mini drustvenu mrezu koja radi na principu LinkedIn-a. Radnici mogu praviti profile
+               objavljivati svoje sposobnosti, certifikate, svoj CV, tagovati se gdje su prethodno radili, ocjenjivati
+               druge radnike i firme, poslodavaoce itd. Firme mogu objavljivati opise svoje firme, tendere za posao i 
+               praksu, ocjenjivati druge firme i radnike. Ucenici se mogu prijavljivati na praksu i ostavljati feedback
+               na praksu koju su imali. Nas plan je da kroz nasu platformu smajnimo stopu nezaposlenih, te da prikupimo 
+               relevantne podatke o zaposlenim i nezaposlenim licima u BiH koji mogu pomoci nama u sirenju nase platforme 
+               u buducnosti.<br><br>
+            </p>
+    

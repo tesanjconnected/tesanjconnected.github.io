@@ -1,0 +1,5 @@
+
+            <h1>Ko smo?</h1>
+            <p>Mi smo tim mladih inovatora kojima je cilj da poboljsaju svoju Opcinu kroz projekt Tesanj Connected
+                koji olaksava radnicima, privrednicima i srednjoskolcima.<br><br>
+            </p>
