@@ -1,6 +1,6 @@
 
             <h1>Zašto smo najbolji?</h1>
-            <p>Karakteristika našeg tima je da radimo UI/UX koji je lako shvaljiv, ali i efikasan. Kroz naš rad vodimo se tzv. KISS (Keep it simple, stupid.) principom. 
+            <p>Karakteristika našeg tima je da radimo UI/UX koji je lako shvatljiv, ali i efikasan. Kroz naš rad vodimo se tzv. KISS (Keep it simple, stupid.) principom. 
 	       Druga bitna stavka jeste kadar. Osobe koje rade na projektima su osobe pune novih ideja, spremne na rad i uvođenje inovacija.<br><br>
             </p>
 
