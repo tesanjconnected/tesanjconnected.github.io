@@ -1,5 +1,5 @@
 body {
-    font-family: TimesNewRoman, Times New Roman, Times
+    font-family: TimesNewRoman, Times New Roman, Times;
     background-color: #fff;
 }
 
@@ -48,6 +48,9 @@ footer {
     left: 0;
     bottom: 0;
     right: 0;
+    height: 7%;
+    text-align: center;
+    align-items: center;
 }
 footer p {
     color: #fff;
@@ -65,6 +68,7 @@ footer p {
     left: 0;
     right: 0;
     font-size: 2vw;
+    text-align: center;
 }
 
 .item1 {
@@ -93,6 +97,7 @@ footer p {
                         'main main main main main main'
                         'footer footer footer footer footer footer';
 }
+
 
 .container > div {
     padding: 1vw;
@@ -125,6 +130,7 @@ footer p {
     color: #fff;
     background-color: #282828;
     border-radius: 1vw;
+    text-align: center;
 }
 
 #main p {
