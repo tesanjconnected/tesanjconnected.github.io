@@ -1,6 +1,6 @@
 
-            <h1>Zasto smo najbolji?</h1>
-            <p>Nas tim radi kroz jednostavan UI/UX koji je lahko korisljiv, mi se pratimo KISS(Keep it simple, stupid.) 
-                principom koji olaksava nasim korisnicima pristup platformi i koristenje. Takodjer nas tim je sacinjen
-                od mladih osoba spremnih na nove ideje, na prijedloge i na sirenje nase platforme.<br><br>
+            <h1>Zašto smo najbolji?</h1>
+            <p>Karakteristika našeg tima je da radimo UI/UX koji je lako shvaljiv, ali i efikasan. Kroz naš rad vodimo se tzv. KISS (Keep it simple, stupid.) principom. 
+	       Druga bitna stavka jeste kadar. Osobe koje rade na projektima su osobe pune novih ideja, spremne na rad i uvođenje inovacija.<br><br>
             </p>
+
