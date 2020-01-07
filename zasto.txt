@@ -1,8 +1,5 @@
-            <h1>Zasto ovo radimo?</h1>
-            <p>Ovo radimo da poboljsamo privredu i skolstvo. Trenutno zivimo u nepogodno doba za nasu malu BiH.
-                Mnogo ljudi napusta drzavu te firme gube kompetentnu radnu snagu i iskusne radnike. Mi kroz ovaj
-                projekt osiguravamo najbolje radnike koje nasa drzava moze ponuditi. Takodjer nudimo i edukaciju
-                buduceg narastaja radnika, bilo da ce ti radnici biti visokoobrazovani clanovi drustva, zanatlije, 
-                ili fizicki radnici, mi njima nudimo bolju buducnost i bolju edukaciju u njihovoj struci. 
+           <h1>Zašto ovo radimo?</h1>
+            <p> Svjesni smo činjenice da živimo u vremenu kada ogroman broj mladih napušta našu državu. Ogromnim iseljavanjem gube se iskusni radnici odnosno radna snaga.
+		Mišljenja smo da projekat kao što je Tešanj Connected može odigrati veliku ulogu u sprječavanju ove pojave.  
             <br><br>
             </p>
