@@ -1,5 +1,5 @@
            <h1>Zašto ovo radimo?</h1>
             <p> Svjesni smo činjenice da živimo u vremenu kada ogroman broj mladih napušta našu državu. Ogromnim iseljavanjem gube se iskusni radnici odnosno radna snaga.
-		Mišljenja smo da projekat kao što je Tešanj Connected može odigrati veliku ulogu u sprječavanju ove pojave.  
+		Mišljenja smo da projekat kao što je Tešanj Connected može odigrati veliku ulogu u sprečavanju ove pojave.  
             <br><br>
             </p>
